@@ -17,3 +17,5 @@ Enter the email you created the account with
 After opening the python file, it automatically creates a card and adjusts its balance
 
 if you press enter in command panel it will delete the card
+
+My discord account: Kydro#1227
